@@ -1,0 +1,6 @@
+{
+  "name": "NeuroLocal AI",
+  "description": "Offline on-device AI runtime with hardware throttling, battery optimization, and zero-data-leakage privacy guarantee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

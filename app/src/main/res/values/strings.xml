@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NeuroLocal</string>
+    <string name="privacy_tagline">100% On-Device AI • Zero Cloud Leakage</string>
+    <string name="tab_runtime">Runtime</string>
+    <string name="tab_chat">Local Chat</string>
+    <string name="tab_tasks">Neural Tasks</string>
+    <string name="tab_benchmark">Battery Lab</string>
+    <string name="tab_security">Privacy Vault</string>
+</resources>
